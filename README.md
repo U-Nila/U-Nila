@@ -52,11 +52,7 @@
 
 ---
 
-### 🧠 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Udhayanila?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/Udhayanila)
-
----
 
 ### 🧰 Projects Showcase
 
